@@ -21,6 +21,5 @@ $ man ./man_3_printf
 
 ## Authors
 
-Azer Aslanov
----
+Azer Aslanov,
 Ziya Gasimov
